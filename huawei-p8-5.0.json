@@ -1,0 +1,41 @@
+{
+  "Build": {
+    "BOARD": "GRA-L09",
+    "BOOTLOADER": "C900B162",
+    "BRAND": "HUAWEI",
+    "CPU_ABI": "arm64-v8a",
+    "CPU_ABI2": "armeabi-v7a",
+    "DEVICE": "HWGRA",
+    "DISPLAY": "GRA-L09C900B162",
+    "FINGERPRINT": "HUAWEI/GRA-L09/HWGRA:5.0/HUAWEIGRA-L09/C900B162:user/release-keys",
+    "HARDWARE": "Hisilicon Kirin 935",
+    "ID": "HUAWEIGRA-L09",
+    "MANUFACTURER": "HUAWEI",
+    "MODEL": "HUAWEI GRA-L09",
+    "PRODUCT": "GRA-L09",
+    "RADIO": "C900B162",
+    "SERIAL": "unknown",
+    "SUPPORTED_32_BIT_ABIS": [
+      "arm64-v8a"
+    ],
+    "SUPPORTED_64_BIT_ABIS": [
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "SUPPORTED_ABIS": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "TAGS": "release-keys",
+    "TYPE": "user"
+  },
+  "VERSION": {
+    "CODENAME": "REL",
+    "INCREMENTAL": "C900B162",
+    "RELEASE": "5.0",
+    "SDK": "21",
+    "SDK_INT": 21
+  },
+  "humanDeviceName": "Huawei P8 (5.0)"
+}
