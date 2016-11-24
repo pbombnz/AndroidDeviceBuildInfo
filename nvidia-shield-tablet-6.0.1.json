@@ -1,0 +1,39 @@
+{
+  "Build": {
+    "BOARD": "",
+    "BOOTLOADER": "unknown",
+    "BRAND": "nvidia",
+    "CPU_ABI": "armeabi-v7a",
+    "CPU_ABI2": "armeabi",
+    "DEVICE": "shieldtablet",
+    "DISPLAY": "MRA58K.40827_700.6895",
+    "FINGERPRINT": "nvidia/wx_na_wf/shieldtablet:6.0.1/MRA58K/40827_700.6895:user/release-keys",
+    "HARDWARE": "unknown",
+    "ID": "LMY48C",
+    "MANUFACTURER": "NVIDIA",
+    "MODEL": "SHIELD Tablet",
+    "PRODUCT": "wx_na_wf",
+    "RADIO": "unknown",
+    "SERIAL": "unknown",
+    "SUPPORTED_32_BIT_ABIS": [
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "SUPPORTED_64_BIT_ABIS": [
+    ],
+    "SUPPORTED_ABIS": [
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "TAGS": "release-keys",
+    "TYPE": "user"
+  },
+  "VERSION": {
+    "CODENAME": "REL",
+    "INCREMENTAL": "40827_700.6895",
+    "RELEASE": "6.0.1",
+    "SDK": "23",
+    "SDK_INT": 23
+  },
+  "humanDeviceName": "NVIDIA SHIELD Tablet (6.0.1)"
+}
